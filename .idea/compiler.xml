@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="netty_in_action" />
+        <module name="client" />
+        <module name="Netty_Authoritative_Guide" />
+        <module name="server" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
+      <module name="c2" target="1.5" />
+      <module name="client" target="1.5" />
       <module name="netty" target="1.5" />
+      <module name="Netty_Authoritative_Guide" target="1.5" />
       <module name="netty_in_action" target="1.5" />
+      <module name="server" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
