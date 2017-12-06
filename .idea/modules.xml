@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NIO_Netty5/NIO_Netty5.iml" filepath="$PROJECT_DIR$/NIO_Netty5/NIO_Netty5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Netty_Authoritative_Guide/Netty_Authoritative_Guide.iml" filepath="$PROJECT_DIR$/Netty_Authoritative_Guide/Netty_Authoritative_Guide.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_in_action/c2/c2.iml" filepath="$PROJECT_DIR$/netty_in_action/c2/c2.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_in_action/c2/client/client.iml" filepath="$PROJECT_DIR$/netty_in_action/c2/client/client.iml" />

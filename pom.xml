@@ -11,6 +11,7 @@
     <modules>
         <module>netty_in_action</module>
         <module>Netty_Authoritative_Guide</module>
+        <module>NIO_Netty5</module>
     </modules>
 
 
